@@ -11,11 +11,11 @@ A lightweight educational operating system built from scratch to demonstrate the
 
 | Desktop       | File Explorer |
 | ------------- | ------------- |
-| ![](img1.png) | ![](img2.png) | 
+| ![](UI/img5.png) | ![](UI/img2.png) | 
 
 | Terminal      | System Monitor |
 | ------------- | -------------- |
-| ![](img3.png) | ![](img4.png)  |
+| ![](UI/img1.png) | ![](UI/img3.png)  |
 
 ---
 
