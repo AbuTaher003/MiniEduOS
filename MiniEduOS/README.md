@@ -11,7 +11,7 @@ A lightweight educational operating system built from scratch to demonstrate the
 
 | Desktop       | File Explorer |
 | ------------- | ------------- |
-| ![](img1.png) | ![](img2.png) |
+| ![](img1.png) | ![](img2.png) | 
 
 | Terminal      | System Monitor |
 | ------------- | -------------- |
